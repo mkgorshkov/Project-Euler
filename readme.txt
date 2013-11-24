@@ -1,0 +1,1 @@
+Here are a select number of solutions for ProjectEuler. The folder refers to the problem number.
